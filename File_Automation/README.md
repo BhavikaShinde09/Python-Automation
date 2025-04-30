@@ -1,4 +1,4 @@
-# 📂 Auto File Organizer
+# 📂 File Organizer
 
 Automatically organize your Downloads folder by sorting files into categorized subfolders in real time! 🧹✨
 
