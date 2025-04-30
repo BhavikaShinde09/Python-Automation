@@ -7,8 +7,8 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 # Folders
-source_dir = "C://Users/91998/Downloads"
-base_dest_dir = "C://Users/91998/Downloads"
+source_dir = "C://Users/Your/Downloads"
+base_dest_dir = "C://Users/Your/Downloads"
 
 dest_dir_sfx = join(base_dest_dir, "SFX")
 dest_dir_music = join(base_dest_dir, "Music")
