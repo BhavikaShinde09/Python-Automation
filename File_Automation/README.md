@@ -64,9 +64,4 @@ Downloads/
 
 ---
 
-### 🔒 Note:
-This is a local utility script. It doesn't upload or share your files in any way.
 
----
-
-Let me know if you want a version with setup instructions for turning it into a background service or task!
